@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Header from "@/components/Header/page";
-import Footer from "@/components/Footer/page";
 import AboutMe from "@/components/About me/page";
 import Skills from "@/components/Skills/page";
 import Projects from "@/components/Project/page";
