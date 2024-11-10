@@ -6,6 +6,7 @@ import Projects from "@/components/Project/page";
 import ContactForm from "@/components/Contact us/page";
 import TypingAnimation from "@/components/Animation/page";
 
+
 export default function Page() {
   return (
     <div>
