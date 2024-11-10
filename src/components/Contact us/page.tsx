@@ -1,4 +1,4 @@
-"use client"; 
+"use client"
 import { useState, FormEvent } from "react";
 import { FaGithub, FaLinkedin, FaGoogle } from "react-icons/fa"; // Importing social media icons
 
